@@ -1,5 +1,7 @@
 """MARCH 14, 2021"""
 
+import Django
+
 # def smth(a, b:str, c):
 #     """
 #     Description

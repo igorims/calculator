@@ -34,5 +34,5 @@ elif operator == "-":
     print(sum_nums(num1, num2))
 elif operator == "*":
     print(mul_nums(num1, num2))
-elif operator == "/":
+elif operator == "/": #let's say we corrected this
     print(div_nums(num1, num2))

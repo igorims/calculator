@@ -19,4 +19,4 @@ num2 = int(input('Введите второе число: '))
 operator = input('Введите операцию: ')
 
 if operator == "+":
-    print(sum_nums(num1, num1))
+    print(sum_nums(num1, num2))

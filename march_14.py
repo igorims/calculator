@@ -11,3 +11,12 @@
 #
 # smth()
 
+def sum_nums(a, b):
+    return a + b
+
+num1 = int(input('ВВедите первое число: '))
+num2 = int(input('Введите второе число: '))
+operator = input('Введите операцию: ')
+
+if operator == "+":
+    print(sum_nums(num1, num1))

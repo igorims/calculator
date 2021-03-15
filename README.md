@@ -3,6 +3,7 @@
 Calculates nums
 
 ## Getting started
+See this cool page
 
 ### Installing
 
